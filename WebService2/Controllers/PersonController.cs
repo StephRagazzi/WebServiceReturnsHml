@@ -70,7 +70,7 @@ namespace WebService2.Controllers
                 FirstName = "Johnny",
                 LastName = "Doe",
                 Age = 32,
-                Hobbies = new List<string> { "Tennis", "Running" }
+                Hobbies = new List<string> { "Tennis", "Fitness" }
             };
 
             List<Person> persons = new List<Person> 
